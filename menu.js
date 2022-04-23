@@ -4,7 +4,7 @@ vejo aqui que você assinou meu contrato então tem acesso ao menu,
 se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
-┋✟🔥⃢⃟𝘼𝙇𝘼⃟HnryBot𝘽𝙊⃟𝙏🔥✟
+┋✟🔥⃢⃟Hnry𝘽𝙊⃟𝙏🔥✟
 ┋  
 ┋ 🕐 𝐃𝐚𝐭𝐚: ${date}
 ┋ 🌎 𝐖𝐚𝐦𝐞: 
